@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GolderMapDemo</string>
+    <string name="destination">please input destination</string>
+    <string name="search">search</string>
+</resources>
